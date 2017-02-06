@@ -2,6 +2,13 @@
 Changelog
 #########
 
+0.3.3
+=====
+
+(Non-officiel release)
+* Improve nodes endpoint with_status arg
+* Handle puppetdb bug with noop and noop_pending null values
+
 0.3.2
 =====
 
